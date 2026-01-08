@@ -1,0 +1,5 @@
+{
+  "name": "AI 智能词汇本",
+  "description": "一个结合了 TypeScript 核心特性与 Gemini AI 的智能词汇学习工具。用户输入单词，AI 自动生成释义、例句和助记词，帮助初学者理解 TS 的类型安全与异步 API 调用。",
+  "requestFramePermissions": []
+}
